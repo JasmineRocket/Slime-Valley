@@ -1,0 +1,15 @@
+Element1,Element2,Element3
+mud,normal,water_crystal
+mud,veggie,fire_crystal
+gold,fire,diamond_crystal
+honey,water,veggie_crystal
+rock,mud,fire_crystal
+villan,fluffy,fire_crystal
+crystal,rock,glass_crystal
+villan,gold,diamond_crystal
+thunder,lumine,gold_crystal
+quantum,lumine,thunder_crystal
+diamond,crysral,lumine_crystal
+ghost,villan,water_crystal
+fluffy,diamond,honey_crystal
+radiation,thunder,quantum_crystal
